@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool:
+pool: salmanag01
   vmImage: 'windows-latest'
 
 variables:
